@@ -1,6 +1,9 @@
+Executable can be found in Dist/Main folder. 
+
 The Rocket Launch Viewer is a Python-based desktop application designed to provide an interactive experience for exploring detailed information about space launches, rockets, and manufacturers. Built with Tkinter and ttkbootstrap, it connects to a local SQLite database and presents data through a clean, modern interface.
 
 Key Features
+
 Database Integration:
 Connects to a SQLite database containing structured records of launches, rockets, and manufacturers.
 
